@@ -36,7 +36,7 @@
                 Name: Ruchika Marda. 
             </p>
             <p>
-                Short Bio: I live in Natick, MA. I am originally from Kolkata, India. I work as a software engineer at MathWorks, Inc, Natick, MA. 
+                Short Bio: I live in Natick, MA. I am originally from Kolkata, India. I work as a software engineer at MathWorks, Inc. 
                 Back in 2005, I had dabbled in writing JSP pages but other than that, I have no experience developing web applications. Looking forward to learn a lot from this course. 
             </p>
             <p>
