@@ -33,13 +33,14 @@
         
         <div class="bio">
             <p>
-                Hi, My name is Ruchika Marda. I live in Natick, MA. I am originally from Kolkata, India. 
+                Name: Ruchika Marda. 
             </p>
             <p>
-                I work as a software engineer at MathWorks, Inc, Natick, MA. Back in 2005, I had dabbled in writing JSP pages but other than that, I have no experience developing web applications. I hope to learn a lot from this class. 
+                Short Bio: I live in Natick, MA. I am originally from Kolkata, India. I work as a software engineer at MathWorks, Inc, Natick, MA. 
+                Back in 2005, I had dabbled in writing JSP pages but other than that, I have no experience developing web applications. Looking forward to learn a lot from this course. 
             </p>
             <p>
-                I am experimenting with Sublime as my code editor and I like it so far. 
+                Code Editor: Sublime Text. 
             </p>
         </div>
     </body>
